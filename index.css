@@ -1,0 +1,68 @@
+h1 {
+ color: dark blue;
+background color: gray;
+border: 1px: solid blue;
+text-decoration:underline;
+}
+
+.center h2 {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+
+h2 {
+color: blue;
+}
+img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width 100;
+}
+
+
+th {
+type font-size: 2em;
+}
+
+tr {
+font-family: cursive;
+}
+tr {
+font-family: cursive;
+} 
+
+th {
+type font-size: 2 em;
+}
+
+h4 {
+font-weight: Bold;
+}
+
+
+ul{
+border-top: 2px solid blue
+}
+
+ul{
+border-bottom: 2px solid blue
+}
+
+li {
+line-height: 1.5 em;
+letter-spacing: 0.1em;
+word-spacing:0.2em;
+}
+
+ol{
+border-top: 2px solid green
+}
+
+ol{
+border-bottom: 2px solid green
+}
